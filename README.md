@@ -6,3 +6,5 @@ hogehoge
 git diff
 
 hogehoge
+
+fugafuga
