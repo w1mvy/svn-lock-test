@@ -4,3 +4,5 @@ svn lock test
 hogehoge
 
 git diff
+
+ちょっとかえるよ
